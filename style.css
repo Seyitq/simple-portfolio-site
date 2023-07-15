@@ -45,7 +45,6 @@ h1 {
 p{
   font-family: 'Mulish';
   font-size: 13px;
-  text
 }
 
 .description {
@@ -96,4 +95,12 @@ p{
 }
 .icon4:hover {
   opacity: 1;
+}
+
+.hiddenb{
+  margin-top: 700px;
+  color: transparent;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
 }

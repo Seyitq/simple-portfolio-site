@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const box = document.querySelector('.box');
+  const box = document.querySelector('.container');
 
   box.addEventListener('mouseenter', () => {
     box.style.boxShadow = 'none';
